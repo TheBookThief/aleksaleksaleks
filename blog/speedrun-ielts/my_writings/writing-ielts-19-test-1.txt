@@ -1,0 +1,23 @@
+The data in the graph shows the number of attendees on multiple activities at a social centre in Melbourne, Australia. The data consists of five different activities and covers the period from 2000 to 2020.
+
+Sports activities consist of martial arts and table tennis. The number of participants in martial arts mildly oscillated throughout the years but remained between 30 and 40 for all documented periods. The other sport, table tennis, had 20 participants in periods before 2010. However, it saw significant growth since then, having roughly 35 players in 2015 and more than 50 in 2020.
+
+The artistic activities offered included film club, amateur dramatics, and musical performances. Visiting the film club was the most popular activity from 2000 to 2020. It dipped slightly in 2010 to around 60 participants but climbed back to approximately 65 by 2020. Although amateur dramatics were the third most popular in 2000 and 2005 with 25 and roughly 30 participants respectively, they have linearly declined to be the activity with the least number of performers at less than 10 members in 2020. There were no musical performers in 2000 and 2005, but since then they have slowly grown to around 15 people. 
+
+Overall, the most popular activity in the social centre throughout the whole period was the film club. Furthermore, the fluctuation in participant count varies largely depending on the activity, with film club attendence and martial arts staying almost stationary while drastic changes occured in amateur dramatics and table tennis.
+
+
+
+
+The development of information technologies has largely facilitated cooperation between different individuals. These advancements have made the ability to balance between independent work and teamwork crucial for corporate and personal success.
+	
+I believe the amount of cooperation needed is largely defined by the environment. Working together in school may foster friendships and make the learning experience more enjoyable, but it is important that every individual participating fully understands the concepts studied. For example, Doing homework 
+in a group can hinder the results of some participants on real examinations as they are individual. Furthermore, working through problems independently can lead students to different solutions which they can exchange afterwards and learn about a different point of view. However, having separate assignments in the form of group projects is still invaluable, as they can reduce negative competition and prepare students to be adequate contributors in their future workplace.
+
+Once an individual becomes part of a company they must often learn how to efficiently exchange information with others and work together towards common goals. In the workplace thorough cooperation usually translates to better performance and creates a sense of belonging to the team. Although teamwork is largely recommended, employees must be ready to carry out tasks autonomously if they possess all the insights necessary. This does not apply to the relationships between people outside of the workplace as one should always be eager to help the elderly or the disabled. I believe a feeling of such responsibility is fundamental for a modern society in order to ensure a better standard of living for everyone. 
+
+Ultimately, an individual is responsible for balancing between cooperation and competition in order to grow. One must ensure their own understanding of the material when studying or their independence when executing certain tasks, while remaining aware of the negatives that unnecessary competition brings when pursuing common goals.   
+
+
+---
+separate
